@@ -1,0 +1,17 @@
+Y:\Groups\1\גוזלן שרה\Dotnet\MyProject\MyProject.Repositories\bin\Debug\netcoreapp3.1\MyProject.Repositories.deps.json
+Y:\Groups\1\גוזלן שרה\Dotnet\MyProject\MyProject.Repositories\bin\Debug\netcoreapp3.1\MyProject.Repositories.dll
+Y:\Groups\1\גוזלן שרה\Dotnet\MyProject\MyProject.Repositories\bin\Debug\netcoreapp3.1\MyProject.Repositories.pdb
+Y:\Groups\1\גוזלן שרה\Dotnet\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.AssemblyInfoInputs.cache
+Y:\Groups\1\גוזלן שרה\Dotnet\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.AssemblyInfo.cs
+Y:\Groups\1\גוזלן שרה\Dotnet\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.csproj.CoreCompileInputs.cache
+Y:\Groups\1\גוזלן שרה\Dotnet\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.dll
+Y:\Groups\1\גוזלן שרה\Dotnet\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.pdb
+Y:\Groups\1\פישל יהודית\.NET\‏‏תיקיה חדשה\MyProject\MyProject.Repositories\bin\Debug\netcoreapp3.1\MyProject.Repositories.deps.json
+Y:\Groups\1\פישל יהודית\.NET\‏‏תיקיה חדשה\MyProject\MyProject.Repositories\bin\Debug\netcoreapp3.1\MyProject.Repositories.dll
+Y:\Groups\1\פישל יהודית\.NET\‏‏תיקיה חדשה\MyProject\MyProject.Repositories\bin\Debug\netcoreapp3.1\MyProject.Repositories.pdb
+Y:\Groups\1\פישל יהודית\.NET\‏‏תיקיה חדשה\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.csproj.AssemblyReference.cache
+Y:\Groups\1\פישל יהודית\.NET\‏‏תיקיה חדשה\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.AssemblyInfoInputs.cache
+Y:\Groups\1\פישל יהודית\.NET\‏‏תיקיה חדשה\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.AssemblyInfo.cs
+Y:\Groups\1\פישל יהודית\.NET\‏‏תיקיה חדשה\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.csproj.CoreCompileInputs.cache
+Y:\Groups\1\פישל יהודית\.NET\‏‏תיקיה חדשה\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.dll
+Y:\Groups\1\פישל יהודית\.NET\‏‏תיקיה חדשה\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.pdb

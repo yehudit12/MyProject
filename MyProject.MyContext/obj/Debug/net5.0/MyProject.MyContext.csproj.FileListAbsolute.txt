@@ -1,0 +1,36 @@
+Y:\Groups\1\גוזלן שרה\Dotnet\MyProject\MyProject.MyContext\bin\Debug\net5.0\MyProject.MyContext.deps.json
+Y:\Groups\1\גוזלן שרה\Dotnet\MyProject\MyProject.MyContext\bin\Debug\net5.0\MyProject.MyContext.runtimeconfig.json
+Y:\Groups\1\גוזלן שרה\Dotnet\MyProject\MyProject.MyContext\bin\Debug\net5.0\MyProject.MyContext.runtimeconfig.dev.json
+Y:\Groups\1\גוזלן שרה\Dotnet\MyProject\MyProject.MyContext\bin\Debug\net5.0\MyProject.MyContext.dll
+Y:\Groups\1\גוזלן שרה\Dotnet\MyProject\MyProject.MyContext\bin\Debug\net5.0\ref\MyProject.MyContext.dll
+Y:\Groups\1\גוזלן שרה\Dotnet\MyProject\MyProject.MyContext\bin\Debug\net5.0\MyProject.MyContext.pdb
+Y:\Groups\1\גוזלן שרה\Dotnet\MyProject\MyProject.MyContext\bin\Debug\net5.0\MyProject.Repositories.dll
+Y:\Groups\1\גוזלן שרה\Dotnet\MyProject\MyProject.MyContext\bin\Debug\net5.0\MyProject.Repositories.pdb
+Y:\Groups\1\גוזלן שרה\Dotnet\MyProject\MyProject.MyContext\obj\Debug\net5.0\MyProject.MyContext.csproj.AssemblyReference.cache
+Y:\Groups\1\גוזלן שרה\Dotnet\MyProject\MyProject.MyContext\obj\Debug\net5.0\MyProject.MyContext.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\1\גוזלן שרה\Dotnet\MyProject\MyProject.MyContext\obj\Debug\net5.0\MyProject.MyContext.AssemblyInfoInputs.cache
+Y:\Groups\1\גוזלן שרה\Dotnet\MyProject\MyProject.MyContext\obj\Debug\net5.0\MyProject.MyContext.AssemblyInfo.cs
+Y:\Groups\1\גוזלן שרה\Dotnet\MyProject\MyProject.MyContext\obj\Debug\net5.0\MyProject.MyContext.csproj.CoreCompileInputs.cache
+Y:\Groups\1\גוזלן שרה\Dotnet\MyProject\MyProject.MyContext\obj\Debug\net5.0\MyProject.MyContext.csproj.CopyComplete
+Y:\Groups\1\גוזלן שרה\Dotnet\MyProject\MyProject.MyContext\obj\Debug\net5.0\MyProject.MyContext.dll
+Y:\Groups\1\גוזלן שרה\Dotnet\MyProject\MyProject.MyContext\obj\Debug\net5.0\ref\MyProject.MyContext.dll
+Y:\Groups\1\גוזלן שרה\Dotnet\MyProject\MyProject.MyContext\obj\Debug\net5.0\MyProject.MyContext.pdb
+Y:\Groups\1\גוזלן שרה\Dotnet\MyProject\MyProject.MyContext\obj\Debug\net5.0\MyProject.MyContext.genruntimeconfig.cache
+Y:\Groups\1\פישל יהודית\.NET\‏‏תיקיה חדשה\MyProject\MyProject.MyContext\bin\Debug\net5.0\MyProject.MyContext.deps.json
+Y:\Groups\1\פישל יהודית\.NET\‏‏תיקיה חדשה\MyProject\MyProject.MyContext\bin\Debug\net5.0\MyProject.MyContext.runtimeconfig.json
+Y:\Groups\1\פישל יהודית\.NET\‏‏תיקיה חדשה\MyProject\MyProject.MyContext\bin\Debug\net5.0\MyProject.MyContext.runtimeconfig.dev.json
+Y:\Groups\1\פישל יהודית\.NET\‏‏תיקיה חדשה\MyProject\MyProject.MyContext\bin\Debug\net5.0\MyProject.MyContext.dll
+Y:\Groups\1\פישל יהודית\.NET\‏‏תיקיה חדשה\MyProject\MyProject.MyContext\bin\Debug\net5.0\ref\MyProject.MyContext.dll
+Y:\Groups\1\פישל יהודית\.NET\‏‏תיקיה חדשה\MyProject\MyProject.MyContext\bin\Debug\net5.0\MyProject.MyContext.pdb
+Y:\Groups\1\פישל יהודית\.NET\‏‏תיקיה חדשה\MyProject\MyProject.MyContext\bin\Debug\net5.0\MyProject.Repositories.dll
+Y:\Groups\1\פישל יהודית\.NET\‏‏תיקיה חדשה\MyProject\MyProject.MyContext\bin\Debug\net5.0\MyProject.Repositories.pdb
+Y:\Groups\1\פישל יהודית\.NET\‏‏תיקיה חדשה\MyProject\MyProject.MyContext\obj\Debug\net5.0\MyProject.MyContext.csproj.AssemblyReference.cache
+Y:\Groups\1\פישל יהודית\.NET\‏‏תיקיה חדשה\MyProject\MyProject.MyContext\obj\Debug\net5.0\MyProject.MyContext.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\1\פישל יהודית\.NET\‏‏תיקיה חדשה\MyProject\MyProject.MyContext\obj\Debug\net5.0\MyProject.MyContext.AssemblyInfoInputs.cache
+Y:\Groups\1\פישל יהודית\.NET\‏‏תיקיה חדשה\MyProject\MyProject.MyContext\obj\Debug\net5.0\MyProject.MyContext.AssemblyInfo.cs
+Y:\Groups\1\פישל יהודית\.NET\‏‏תיקיה חדשה\MyProject\MyProject.MyContext\obj\Debug\net5.0\MyProject.MyContext.csproj.CoreCompileInputs.cache
+Y:\Groups\1\פישל יהודית\.NET\‏‏תיקיה חדשה\MyProject\MyProject.MyContext\obj\Debug\net5.0\MyProject.MyContext.csproj.CopyComplete
+Y:\Groups\1\פישל יהודית\.NET\‏‏תיקיה חדשה\MyProject\MyProject.MyContext\obj\Debug\net5.0\MyProject.MyContext.dll
+Y:\Groups\1\פישל יהודית\.NET\‏‏תיקיה חדשה\MyProject\MyProject.MyContext\obj\Debug\net5.0\ref\MyProject.MyContext.dll
+Y:\Groups\1\פישל יהודית\.NET\‏‏תיקיה חדשה\MyProject\MyProject.MyContext\obj\Debug\net5.0\MyProject.MyContext.pdb
+Y:\Groups\1\פישל יהודית\.NET\‏‏תיקיה חדשה\MyProject\MyProject.MyContext\obj\Debug\net5.0\MyProject.MyContext.genruntimeconfig.cache
